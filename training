@@ -1,0 +1,3 @@
+$ ./destreamer.sh -i "https://web.microsoftstream.com/video/0fa3739d-6306-4a82-9bce-dcc28c063902"
+$ ./destreamer.sh -i "https://web.microsoftstream.com/video/535875db-08ba-4c95-b205-bbc18238a2f9"
+$ ./destreamer.sh -i "https://web.microsoftstream.com/video/fa3b984c-d8e0-4e5c-ad70-11cbae646167"
